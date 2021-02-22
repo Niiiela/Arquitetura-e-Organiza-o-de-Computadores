@@ -1,6 +1,6 @@
 # Arquitetura-e-Organiza-o-de-Computadores
 
-Conceito básico de Arquitetura e organização
+                                                          Conceito básico de Arquitetura e organização
 
 No conceito de arquitetura e organização são separados por “arquitetura de computador” e “organização”.  A arquitetura de computador refere-se a um atributo que tem a capacidade de executar uma lógica de programação. Já a organização é uma unidade de operação e periféricos. Na sociedade temos vários modelos de computadores conhecido como computadores invisíveis como por exemplo: Um microondas.
 
